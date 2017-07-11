@@ -1,4 +1,6 @@
-//: Playground - noun: a place where people can play
+let const = 0
+var v: Int  = 0
 
-var whatever = "Hello, playground"
-print(whatever)
+v = 1
+
+let ints: [Int] = []
